@@ -1,0 +1,59 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Osteria del Borgo",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine_type": "Italian",
+      "price_range": "€€",
+      "rating": 4.7,
+      "short_description": "Authentic Tuscan cuisine in a cozy medieval setting, featuring homemade pasta and locally sourced ingredients.",
+      "image_url": "https://example.com/images/osteria-del-borgo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Le Petit Coq",
+      "city": "Lyon",
+      "country": "France",
+      "cuisine_type": "French",
+      "price_range": "€€€",
+      "rating": 4.9,
+      "short_description": "Traditional French bistro serving classic Lyonnaise specialties with an extensive wine selection from the Rhône Valley.",
+      "image_url": "https://example.com/images/le-petit-coq.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Zur Goldenen Gans",
+      "city": "Vienna",
+      "country": "Austria",
+      "cuisine_type": "Austrian",
+      "price_range": "€€",
+      "rating": 4.3,
+      "short_description": "Historic Viennese tavern serving traditional schnitzel and apple strudel in an elegant 19th-century atmosphere.",
+      "image_url": "https://example.com/images/zur-goldenen-gans.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Taberna El Rincón",
+      "city": "Seville",
+      "country": "Spain",
+      "cuisine_type": "Spanish",
+      "price_range": "€",
+      "rating": 4.5,
+      "short_description": "Lively tapas bar in the heart of Barrio Santa Cruz, known for jamón ibérico and flamenco performances on weekends.",
+      "image_url": "https://example.com/images/taberna-el-rincon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Ivy Chelsea Garden",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine_type": "Modern European",
+      "price_range": "€€€",
+      "rating": 4.2,
+      "short_description": "Sophisticated restaurant with a beautiful garden terrace, offering contemporary European dishes with British influences.",
+      "image_url": "https://example.com/images/ivy-chelsea-garden.jpg"
+    }
+  ]
+}
